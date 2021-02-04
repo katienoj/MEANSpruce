@@ -8,6 +8,8 @@ var client_id = process.env.g_client_id || "784156431685-5p4u1e71cdmt06q08c115ht
     "&scope=profile%20email&client_id=" +
     client_id;
 
+    //testing
+
 module.exports = {
   client_id: client_id,
   client_secret: client_secret,
